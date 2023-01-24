@@ -49,8 +49,9 @@ plt.show()
 
 
 ```
-## Output
-![linear](https://user-images.githubusercontent.com/118679692/214320752-c0effee0-aa6a-42be-b0c5-910499f72b45.png)
+
+![ajay](https://user-images.githubusercontent.com/118679692/214349350-a58dac17-b7e6-45c7-8a0c-026fc8ed0ffc.png)
+
 
 
 </br>
